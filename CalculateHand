@@ -1,0 +1,16 @@
+# If card matches another card, and less than 8, pick up. Otherwise draw.
+# Check hand total. If points less than 10, knock
+# Discard - If card is 15 and does not match, discard. elIf card is > 8 and doesn't match, discard
+
+
+def evaluatehand():
+
+
+#Checks to see if card matches another card in a hand.
+def match():
+
+def pickup()
+
+def discard():
+
+def checkhandtotal():
